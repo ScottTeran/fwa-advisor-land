@@ -173,7 +173,7 @@
   		margin-left: auto;
   		margin-right: auto;
   		list-style: none;
-  		max-width: 1200px;
+  		max-width: 1000px;
 
   
   		display: -webkit-box;
@@ -186,15 +186,16 @@
   		justify-content: space-around;
 	}
 
-	.infograph {
-		
+	.infograph img {
+		width: 200px;
 	}
 
 	.icaption {
 		margin-left: auto;
 		margin-right: auto;
 		text-align: center;
-		width: 150px;
+		width: 175px;
+		font-size: 1.2em;
 
 	}
 /* Section/Article */
